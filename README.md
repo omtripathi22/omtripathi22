@@ -80,12 +80,9 @@ A C++ based banking application implementing core banking operations along with 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omtripathi22\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omtripathi22\&layout=compact\&theme=github_dark\&hide_border=true)
-
+I actively work on software development projects, practice Data Structures & Algorithms, and continuously build my backend development skills.
 ---
 
 ## 🌐 Connect With Me
