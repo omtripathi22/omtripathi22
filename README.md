@@ -1,12 +1,13 @@
 # Hi, I'm Om Tripathi 👋
 
-Computer Science Student | Former Software Engineer Intern @ Visa | Backend Developer
+### Computer Science Student | Former Software Engineer Intern @ Visa | Backend Developer
 
-I'm a Computer Science & Engineering student passionate about **software development, backend engineering, problem solving, and building real-world applications**.
+I'm a Computer Science & Engineering student interested in **backend development, software engineering, and problem solving**.
 
-Currently, I'm focused on strengthening my skills in **Backend Development, System Design, Data Structures & Algorithms, and scalable software engineering**.
+I enjoy building practical applications, working with APIs and databases, and solving challenging problems using **Data Structures & Algorithms**.
 
----
+Currently, I'm strengthening my skills in **Java, Spring Boot, backend engineering, system design, and scalable software development**.
+
 
 ## 🚀 About Me
 
