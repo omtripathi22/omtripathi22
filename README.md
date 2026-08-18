@@ -12,13 +12,15 @@ Currently, I'm strengthening my skills in **Java, Spring Boot, backend engineeri
 ## 🚀 About Me
 
 * 🎓 B.Tech Computer Science & Engineering student
-* 💻 Former Software Engineer Intern
-* 🧠 Strong interest in **Data Structures & Algorithms**
-* 🔧 Building backend applications with **FastAPI, SQLAlchemy & Pydantic**
-* ☕ Learning and building with **Java & Spring Boot**
-* ⚡ Experienced with **C++, Python, SQL**
-* 🌱 Currently exploring **backend engineering, system design & performance optimization**
-* 🏗️ I enjoy turning ideas into practical software projects
+* 💼 Former Software Engineer Intern at Visa
+* 🔧 Interested in backend development and software engineering
+* 🐍 Building backend applications with **Python, FastAPI, SQLAlchemy & Pydantic**
+* ☕ Learning and building applications with **Java & Spring Boot**
+* 💻 Strong foundation in **C++, Data Structures & Algorithms**
+* 🗄️ Working with **SQL and relational databases**
+* 🧠 Interested in **system design, performance optimization, and scalable applications**
+* 🚀 Continuously building projects to strengthen my software engineering skills
+
 
 ---
 
@@ -61,9 +63,18 @@ Currently, I'm strengthening my skills in **Java, Spring Boot, backend engineeri
 
 ### 🚦 CityPulse — Traffic Flow Optimization
 
-A traffic simulation and optimization system designed to improve urban traffic flow by reducing congestion and waiting time.
+A traffic simulation and optimization system designed to analyze urban road networks and improve traffic signal strategies.
 
-**Tech:** C++, Python, FastAPI, Algorithms, Graphs
+**Key Concepts:**
+
+* Graph-based city and road network representation
+* Traffic flow simulation
+* Signal optimization
+* Congestion and waiting-time analysis
+* Performance-focused C++ simulation engine
+
+**Tech:** C++, Python, FastAPI, Graph Algorithms
+
 
 ### 🏦 Bank Management System
 
@@ -81,11 +92,6 @@ A C++ based banking application implementing core banking operations along with 
 
 ---
 
-## 📊 GitHub Activity
-
-I actively work on software development projects, practice Data Structures & Algorithms, and continuously build my backend development skills.
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/om-tripathi-15782432a/))
@@ -93,6 +99,6 @@ I actively work on software development projects, practice Data Structures & Alg
 
 ---
 
-### 💡 "Build. Learn. Solve. Repeat."
+💡 "Build. Learn. Solve. Repeat."
 
 Thanks for visiting my profile! 🚀
